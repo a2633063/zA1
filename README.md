@@ -42,7 +42,7 @@ QQ群:**783322122**  [点这里直接加群](//shang.qq.com/wpa/qunwpa?idkey=ea2
 
 - [x] 通过mqtt连入homeassistant(需要更新homeassistant配置文件)
 
-- [ ] 配合M1实现联动功能(开发M1后增加此功能)
+- [x] 配合M1实现联动功能(M1更新至v0.1.0及以上版本,当前功能测试中,有nr/hass的建议使用服务器实现自动化联动)   zM1固件见[zM1空气传感器](https://github.com/a2633063/zM1)
 
   
 
