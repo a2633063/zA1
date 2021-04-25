@@ -22,7 +22,10 @@
 > 有需要请联系作者:zip_zhang@foxmail.com
 
 
-QQ群:**783322122**  [点这里直接加群](//shang.qq.com/wpa/qunwpa?idkey=ea22ed67249c1c313922317efbde45629ab4a3908298a355ad832eba9045596b)  (群内只留购买了A1激活码的,谢谢)(如果提示禁止入群,可能为付费群的一些问题,可以晚点再试)
+QQ群:**783322122**  [点这里直接加群](//shang.qq.com/wpa/qunwpa?idkey=ea22ed67249c1c313922317efbde45629ab4a3908298a355ad832eba9045596b)  加群答案: `zA1`
+
+(群内只留购买了A1激活码的,谢谢)
+
 
 
 ## 特性
